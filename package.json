@@ -1,0 +1,23 @@
+{
+  "name": "@clysema/work",
+  "version": "0.1.0",
+  "description": "[![npm (scoped)](https://img.shields.io/npm/v/@clysema/work.svg)](https://www.npmjs.com/package/@clysema/work) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@clysema/work.svg)](https://www.npmjs.com/package/@clysema/work)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Víctor Navarro <v.navarro@clysema.com> (https://www.clysema.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingeniadevteam/work.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingeniadevteam/work/issues"
+  },
+  "homepage": "https://github.com/ingeniadevteam/work#readme",
+  "dependencies": {
+    "joi": "^14.3.1"
+  }
+}
